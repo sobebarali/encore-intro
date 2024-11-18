@@ -30,3 +30,4 @@ encore run
 While `encore run` is running, open <http://localhost:9400/> to view Encore's [local development dashboard](https://encore.dev/docs/observability/dev-dash).
 
 In this special introduction app, the dashboard includes an **Introduction** section where you can complete lessons by writing code in your editor, and finish tasks that will help you master Encore.ts.
+# encore-intro
